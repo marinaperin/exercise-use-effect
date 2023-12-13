@@ -1,0 +1,19 @@
+main {
+  display: grid;
+  place-items: center;
+}
+.joke {
+  display: grid;
+  place-items: center;
+  gap: 1rem;
+  background-color: rgba(148, 148, 148, 0.205);
+  padding: 2rem;
+  border-radius: 10px;
+  button {
+    width: 100px;
+  }
+}
+h2 {
+  color: #f3b1ff;
+  font-size: xx-large;
+}
